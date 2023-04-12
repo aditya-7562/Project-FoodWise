@@ -17,9 +17,9 @@ Open the Home.html file in a web browser to view the website.
 Contributing:
 
 Fork the repository to your own GitHub account.
-Create a new branch with your changes: 'git checkout -b my-feature-branch'
-Commit your changes: 'git commit -m "Added feature"'
-Push to the branch: 'git push origin my-feature-branch'
+Create a new branch with your changes: 'git checkout -b my-feature-branch'.
+Commit your changes: 'git commit -m "Added feature"'.
+Push to the branch: 'git push origin my-feature-branch'.
 Create a pull request and describe your changes.
 
 Credits:
