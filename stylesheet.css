@@ -1,0 +1,23 @@
+
+ 
+img{
+    padding-left: 10%;
+    padding-right: 3%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}  
+p{
+    font-size:18px;
+}
+.explain{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+ul{
+    font-size:18px;  
+}
+ol{
+    font-size:18px;  
+}
