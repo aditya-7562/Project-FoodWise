@@ -26,4 +26,4 @@ Create a pull request and describe your changes.
 
 Credits:
 
-This project was developed byy aditya-7562.
+This project was developed by aditya-7562.
