@@ -1,4 +1,6 @@
 # Project-FoodWise
+
+
 This repository contains the source code and assets for the website of "Foodwise", a project aimed at promoting awareness about food waste and encouraging sustainable food practices. The website is built using HTML and CSS.
 
 Features:
