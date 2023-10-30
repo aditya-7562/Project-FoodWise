@@ -12,7 +12,7 @@ The Foodwise Newsletter allows visitors to subscribe to a monthly newsletter wit
 Installation:
 
 Clone or download the repository to your local machine.
-Open the Home.html file in a web browser to view the website.
+Open the index.html file in a web browser to view the website.
 
 Contributing:
 
