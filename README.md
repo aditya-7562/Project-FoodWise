@@ -3,7 +3,7 @@
 
 This repository contains the source code and assets for the website of "Foodwise", a project aimed at promoting awareness about food waste and encouraging sustainable food practices. The website is built using HTML and CSS.
 
-Features:
+Features of the website:
 
 The homepage provides an overview of the project's mission and highlights key initiatives.
 The blog page features articles related to food waste and sustainability.
